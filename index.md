@@ -1,4 +1,4 @@
-
+# Começando com Inteligência Artificial: Um Guia para Iniciantes
 A Inteligência Artificial (IA) deixou de ser algo apenas dos filmes de ficção científica e está cada vez mais presente no nosso dia a dia — seja em assistentes virtuais, recomendações de filmes, filtros de spam ou carros autônomos. Mas por onde começar?
 
 Neste artigo, vamos explorar os conceitos básicos, áreas principais e como dar os primeiros passos na jornada rumo ao universo da IA.
